@@ -2,7 +2,7 @@
 
 Get comprehensive IPO calendar data for all upcoming IPOs on the US stock market.
 
-Sign up here to get your API key: [Upcoming IPO Calendar API](https://rapidapi.com/stock-analysis-stock-analysis-default/api/upcoming-ipo-calendar).
+Sign up here to get your free API key: [Upcoming IPO Calendar API](https://rapidapi.com/stock-analysis-stock-analysis-default/api/upcoming-ipo-calendar).
 
 ## Endpoints
 

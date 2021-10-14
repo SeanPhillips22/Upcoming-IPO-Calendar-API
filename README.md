@@ -19,14 +19,20 @@ Here are some example responses from the API:
     "count": 10,
     "data": [
         {
-            "symbol": "GTLB",
-            "name": "GitLab Inc.",
-            "ipoDate": "2021-10-14",
-            "ipoDateType": "date",
-            "ipoPriceLow": 55,
-            "ipoPriceHigh": 60,
-            "ipoPriceFinal": null,
-            "sharesOffered": 10400000
+            symbol: 'GTLB',
+            name: 'GitLab Inc.',
+            ipoDate: '2021-10-14',
+            ipoDateType: 'date',
+            ipoPriceLow: 66,
+            ipoPriceHigh: 69,
+            ipoPriceFinal: 77,
+            sharesOffered: 10400000,
+            sharesOutstanding: 143014821,
+            marketCap: 11012141217,
+            country: 'United States',
+            exchange: 'NASDAQ',
+            sector: 'Technology',
+            industry: 'Software-Infrastructure',
         },
 .........
 ```
